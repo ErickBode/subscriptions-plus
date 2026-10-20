@@ -1,0 +1,8 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+
+# Personal: one-time migration of the author's own subscriptions (and its test).
+scripts/seed-from-video.mjs
+src/lib/seed.test.ts
